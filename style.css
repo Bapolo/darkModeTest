@@ -14,7 +14,7 @@
 
 body
 {
-
+	font-size: 2.5rem;
 	max-width: var(--max-width);
 	text-align: center;
 	margin: 0 auto;
@@ -41,7 +41,7 @@ body.dark-mode #btn
 #btn
 {
 	padding: 1.2rem 3rem;
-	font-size: 1.8rem;
+	font-size: 2rem;
 	background: var(--dark-back-ground-color);
 	color: var(--dark-color);
 	transition: background-color 0.5s ease-in-out;
@@ -78,3 +78,4 @@ body.dark-mode #btn
 		transform: scale(1);
 	}
 }
+
